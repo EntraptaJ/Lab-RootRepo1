@@ -1,0 +1,4 @@
+[submodule "Lab-SubRepo1"]
+	path = Lab-SubRepo1
+	url = https://github.com/KristianFJones/Lab-SubRepo1.git
+	branch = master
